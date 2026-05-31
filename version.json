@@ -1,4 +1,5 @@
 {
-  "version": "1.8.2",
-  "apkUrl": "https://raw.githubusercontent.com/OneSoulBlack/f2-radio-lab-updates/main/F2-Radio-Lab.apk"
+  "version": "1.8.3",
+  "apkUrl": "https://github.com/OneSoulBlack/f2-radio-lab-updates/releases/download/v1.8.3/F2-Radio-Lab.apk",
+  "message": "Novità della 1.8.3:\n- Nuova veste grafica per il pop-up\n- Bug risolti e stabilità migliorata!"
 }
