@@ -1,0 +1,4 @@
+{
+  "version": "1.8.2",
+  "apkUrl": "https://raw.githubusercontent.com/OneSoulBlack/f2-radio-lab-updates/main/F2-Radio-Lab.apk"
+}
